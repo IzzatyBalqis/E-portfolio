@@ -45,8 +45,15 @@ How to reach me **izzaetie98@gmail.com**
 
 <h2>📁 My Projects</h2>
 
-[REPORT ASSIGNMENT 1 VISIT TO NALI 2023 TIS GROUP 5.pdf](https://github.com/IzzatyBalqis/E-portfolio/files/13917763/REPORT.ASSIGNMENT.1.VISIT.TO.NALI.2023.TIS.GROUP.5.pdf)
+- **ASSIGNMENT 1**
+  [REPORT ASSIGNMENT 1 VISIT TO NALI 2023 TIS GROUP 5.pdf](https://github.com/IzzatyBalqis/E-portfolio/files/13917763/REPORT.ASSIGNMENT.1.VISIT.TO.NALI.2023.TIS.GROUP.5.pdf)
 
-_Reflection_
+  _Reflection_
 
-The NALI presentation at University Technologies Malaysia (UTM), showcasing a variety of educational projects, proved to be captivating. Each exhibit offered fresh insights and opportunities for honing analytical and problem-solving skills. The program provided a glimpse into the future of education while underscoring the importance of fostering inclusive and innovative learning environments. Observing the NALI operation prompted me to contemplate how technology could potentially revolutionize the educational landscape.
+  The NALI presentation at University Technologies Malaysia (UTM), showcasing a variety of educational projects, proved to be captivating. Each exhibit offered fresh     
+  insights and opportunities for honing analytical and problem-solving skills. The program provided a glimpse into the future of education while underscoring the importance 
+  of fostering inclusive and innovative learning environments. Observing the NALI operation prompted me to contemplate how technology could potentially revolutionize the 
+  educational landscape.
+
+- **ASSIGNMENT 2**
+  
