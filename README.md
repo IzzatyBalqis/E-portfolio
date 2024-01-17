@@ -1,7 +1,11 @@
 <h1 align="center">Hey! 👋, I'm Izzaty Balqis</h1>
 <h3 align="center">A student of Bachelor in Science Computer( Graphics and Multimedia Software)</h3>
 
-<p align="left"> <a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a> </p>
+<p align="left"> 
+<a href="https://twitter.com/blqis_vxy" target="blank"><img src="https://img.shields.io/twitter/follow/blqis_vxy?logo=twitter&style=for-the-badge" alt="blqis_vxy" /></a>
+<img src="https://komarev.com/ghpvc/?username=izzatybalqis&label=Profile%20views&color=0eb1b4&style=flat-square" alt="izzatybalqis" /></a> </p>
+
+![appreciated!](https://github.com/IzzatyBalqis/E-portfolio/assets/148413004/bd248530-0886-4ada-ba25-2c66f6a432bc)
 
 Hello! I'm an undergraduate student in my first year, often referred to as Zaty. I'm currently delving into the world of C++ while already having a grasp of basic Java. Despite initially being interested in mathematics and statistics, I changed my focus during matriculation and found the adventurous and enjoyable challenge of learning programming languages. I have some limited work experience and am looking forward to expanding my network and getting to know more people in this field.
 
@@ -22,8 +26,30 @@ _University Technologies Malaysia_
 
 <h2>About me</h2>
 
-_Achievement_
--
+_Achievement / Co-curriculum_
+- Johor Inter Class Debate Competition
+- Executive Committee of Science, Technology, Engineering and Mathematics (STEM) 
+- Facilitator Program of Young Leaders
+- Choral Speaking of Carnival Co-Academic English
+- Fire and Rescue Cadet Excellence Workshop
+
+_Soft Skill_
+
+|                                                                                                                                                                               Problem Solving                                                                                                                                                                              |                                                                                                                                                                          Adaptabilty                                                                                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| _Analytical Thinking Skills:-_  Whenever I encounter a challenge, my approach involves first understanding the problem thoroughly. I take the time to analyze the question, seek relevant resources, and then engage in a trial-and-error process. I aim to uncover effective solutions by combining a thoughtful understanding of the issue with practical experimentation. | _Open-mindedness:-_ I tackle problems by being open to different solutions and considering what others think. This helps me not only solve problems better but also work well with others. I believe being open-minded in adapting to changes is more than just getting used to them; it's about looking for chances to learn and be creative in any situation. |
+|                                                                                                                                                                                Communication                                                                                                                                                                               |                                                                                                                                                                      Interpersonal Skills                                                                                                                                                                     |
+| _Active Listening:-_ It means really focusing on what someone is saying, not just hearing the words. I make sure to pay full attention, ask questions, and show that I understand. This helps me connect with others, build better relationships, and work together effectively.                                                                                             | _Empathy:-_ Having a compassionate heart that understands others' feelings. Whether my friends or colleagues are happy or facing challenges, I make an effort to understand their emotions and offer kindness and support. This helps me build meaningful connections, create a friendly atmosphere, and collaborate effectively.                               |
+
+<h2>Strength🌠</h2>
+
+**🏆Competitiveness**  
+I am inherently a competitive person, driven by a constant desire to surpass my own limits and outperform those around me. Whenever I hear of someone achieving success or excelling in a particular area, rather than succumbing to discouragement, I feel an intense determination to do even better. It's not envy that consumes me but rather a healthy and motivational challenge. This drive pushes me to consistently strive for excellence, dedicating myself to surpassing the accomplishments of others. I see each success as an opportunity to set new goals and work tirelessly to achieve them, creating a cycle of continuous improvement and personal growth.
+
+**🙌Stubborn**  
+I possess a determined and persistent nature. Every time I encounter failure, I immediately delve into analyzing my mistakes, seeking a deeper understanding of the situation. I dedicate myself to extensive practice and exercises to compensate for any shortcomings. If I find myself struggling to grasp a concept, I am known to stay up late and exert extra effort, as I am adverse to accepting failure. While I acknowledge that failures provide valuable lessons, my ultimate goal is to cultivate a life abundant in successes rather than setbacks.
+
+<h2> </h2>
 
 How to reach me **izzaetie98@gmail.com**
 
@@ -40,20 +66,3 @@ How to reach me **izzaetie98@gmail.com**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzatybalqis&show_icons=true&theme=dark&title_color=171617&bg_color=29447a&locale=en" alt="izzatybalqis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatybalqis&theme=dark" alt="izzatybalqis" /></p>
-
-
-
-<h2>📁 My Projects</h2>
-
-- **ASSIGNMENT 1**
-  [REPORT ASSIGNMENT 1 VISIT TO NALI 2023 TIS GROUP 5.pdf](https://github.com/IzzatyBalqis/E-portfolio/files/13917763/REPORT.ASSIGNMENT.1.VISIT.TO.NALI.2023.TIS.GROUP.5.pdf)
-
-  _Reflection_
-
-  The NALI presentation at University Technologies Malaysia (UTM), showcasing a variety of educational projects, proved to be captivating. Each exhibit offered fresh     
-  insights and opportunities for honing analytical and problem-solving skills. The program provided a glimpse into the future of education while underscoring the importance 
-  of fostering inclusive and innovative learning environments. Observing the NALI operation prompted me to contemplate how technology could potentially revolutionize the 
-  educational landscape.
-
-- **ASSIGNMENT 2**
-  
